@@ -1,2 +1,3 @@
-console.log("hafiz ikrash riaz")
-console.log("web development")
+for (let i = 1; i <= 5; i++) {
+    console.log(i);
+}
